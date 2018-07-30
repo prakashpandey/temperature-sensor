@@ -1,4 +1,4 @@
-# pi-screen
+# pi-temperature-humidity
 
 This project is about connecting temperature and humidity sensor to respberry.
 
