@@ -1,4 +1,4 @@
-# pi-temperature-humidity
+# Application to read real time temperature and humidity sensor with respberrypi
 
 This project is about connecting temperature and humidity sensor to respberry.
 
