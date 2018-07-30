@@ -6,4 +6,6 @@ This project is about connecting temperature and humidity sensor to respberry.
 </p>
 
 Link of [Sesor used](https://www.amazon.in/gp/product/B01MXRT9DZ/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1).
+
+
 ![Sample temperature reading](media/sample-temperature-reading.png)
